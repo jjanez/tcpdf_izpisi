@@ -6,7 +6,7 @@
 
 // Description : Izpis tetovirnega listka
 //
-
+// opomba
 // Author:  Janez Jeretina
 
 // (c) Copyright:
